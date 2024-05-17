@@ -1,0 +1,7 @@
+DATABASE_URL = "postgres://postgres.ibdqjrzkwrzawbjdnezb:flKsMGyvU5WZuUS5@aws-0-ap-south-1.pooler.supabase.com:5432/postgres"
+NEXTAUTH_SECRET = "25b9f08bde729b1f714355b8e79692042902dda6ca882c5a9592ace700b9f596"
+NEXTAUTH_URL= "http://localhost:3000"
+GITHUB_CLIENT_ID= "Ov23liwYvk4gMyqDIHNM"
+GITHUB_CLIENT_SECRET= "261c49ad3deb51c23f50a63f90efe98b3260a7d2"
+GOOGLE_CLIENT_ID= "1077842386857-id0goe0ur4chc8jd1onsprkumhda8vuh.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET= "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"
